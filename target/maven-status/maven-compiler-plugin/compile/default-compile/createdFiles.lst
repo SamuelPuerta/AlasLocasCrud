@@ -1,0 +1,11 @@
+Persistencia\exceptions\IllegalOrphanException.class
+Persistencia\exceptions\NonexistentEntityException.class
+DataBase\DB.class
+Persistencia\VentaJpaController.class
+Model\Venta.class
+Model\Controladora.class
+Persistencia\exceptions\PreexistingEntityException.class
+samuelpuerta\alaslocasss\JakartaRestConfiguration.class
+samuelpuerta\alaslocasss\resources\JakartaEE10Resource.class
+Servlet\VentaSv.class
+Persistencia\ControladoraPersistencia.class
